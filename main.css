@@ -1,39 +1,36 @@
-/*
-declaration block
-
-selector{
-    property: value;
-    property2: value;
+body
+{
+    background-color: rgb(167, 96, 96);
 }
-*/
-body{
-    background-color: rgb(80, 36, 36);
+h1
+{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
     color: white;
 }
-
-nav{
-    height: 600px;
-    width: 200px;
-    float: left;
-    padding: 5px;
-    line-height: 30px;
-}
-
-footer{
+h2
+{
     text-align: center;
-    margin-right: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    size: 30px;
 }
-
-img{
-    display: block;
-    margin: auto;
-   
+#img1
+{
+margin-left: 770px;
+margin-right: 770px;
 }
-
-h1{
+#button
+{
+    margin-left: 900px;
+    margin-right: 900px;
+    margin-top: 90px;
+    border-radius: 15px;
+}
+#result
+{
+    color: white;
     text-align: center;
+    
 }
-
-
-
 
