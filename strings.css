@@ -1,0 +1,23 @@
+body{
+background-color: blueviolet;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 50px;
+}
+#textInput{
+    border-width: 15px;
+    margin-left: 850px;
+    margin-right: 850px;
+}
+#button1{
+    margin-right: 920px;
+    margin-left: 920px;
+}
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+
